@@ -1,0 +1,10 @@
+# ? PRIMER PROGRAMA EN PYTHON (HOLA MUNDO)
+
+
+# ? SINTAXIS DE PYTHON
+
+
+# ? SEMÁNTICA DE PYTHON
+
+
+# ? Secuencias de Escape
