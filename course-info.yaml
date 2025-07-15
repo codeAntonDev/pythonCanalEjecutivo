@@ -12,4 +12,6 @@ additional_files:
   - name: README.md
   - name: .gitignore
   - name: .git/index
+  - name: .git/COMMIT_EDITMSG
+  - name: .git/refs/heads/main
 yaml_version: 4
