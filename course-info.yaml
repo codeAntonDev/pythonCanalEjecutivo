@@ -14,4 +14,36 @@ additional_files:
   - name: .git/index
   - name: .git/COMMIT_EDITMSG
   - name: .git/refs/heads/main
+  - name: .git/objects/ff/d0259c1bdffc261242aa42496daedfca17c6d0
+    is_binary: true
+  - name: .git/objects/11/00036af900f4ed3636751fc8a57e2c103db8d7
+    is_binary: true
+  - name: .git/objects/cc/8d4d502c9a663f6d3677432a37f38f468a90ba
+    is_binary: true
+  - name: .git/objects/0a/9300dc668d94986d46e5573a2d5912ef3329c5
+    is_binary: true
+  - name: .git/objects/f9/8db3eb90a2b25f89a07fcc1c76c3446c843f76
+    is_binary: true
+  - name: .git/objects/cb/c0535e7b32c4817e264298221805b6384675ee
+    is_binary: true
+  - name: .git/objects/11/67b3db907d640b6d0e253bb3a96515a12f947b
+    is_binary: true
+  - name: .git/objects/28/15b9c615d2aba9daf4939de43deb13b4d79b6f
+    is_binary: true
+  - name: .git/objects/87/5835021051ec58707ff006efd09a9e600f373a
+    is_binary: true
+  - name: .git/objects/82/d8264719d46161655e7cc1ca23ce03fe009dab
+    is_binary: true
+  - name: .git/objects/c0/3fe6e1b43e21a54803db7f471b014b25210df9
+    is_binary: true
+  - name: .git/objects/ff/b8f02bbb72430a2f8caf4c15d3a3d45a7de42b
+    is_binary: true
+  - name: .git/objects/79/5ae0c74b39291a5eca7cb498b580caffc4cf16
+    is_binary: true
+  - name: .git/objects/d0/4fc8844cc2bf0d85cedf9ee38c8c17732d9aa8
+    is_binary: true
+  - name: .git/objects/47/40beca53de19341fbd745cebcbc3f06587b7da
+    is_binary: true
+  - name: .git/objects/34/4faf57d2621873ad0cebbc77a1c07c441f0aa2
+    is_binary: true
 yaml_version: 4

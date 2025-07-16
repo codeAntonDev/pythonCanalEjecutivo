@@ -1,0 +1,11 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: r_caso_practico.py
+    visible: true
+  - name: caso_practico.py
+    visible: true
